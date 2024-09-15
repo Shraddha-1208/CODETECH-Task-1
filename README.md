@@ -18,7 +18,7 @@ Key Activities:
 - Time-Series Analysis:Identifying seasonal patterns, trends, and potential anomalies in Bitcoin prices using statistical methods or machine learning models.
 
 Dataset:
-- Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- Link:bitcoin.csv
 
 Technologies Used:
 - Python: The primary programming language for data analysis.
