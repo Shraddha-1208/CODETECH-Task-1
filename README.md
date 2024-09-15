@@ -18,7 +18,7 @@ Key Activities:
 - Time-Series Analysis:Identifying seasonal patterns, trends, and potential anomalies in Bitcoin prices using statistical methods or machine learning models.
 
 Dataset:
-- Link:bitcoin.csv
+- Link:[bitcoin.csv](https://www.kaggle.com/code/adityamhaske/bitcoin-price-prediction)
 
 Technologies Used:
 - Python: The primary programming language for data analysis.
